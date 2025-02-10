@@ -1,4 +1,3 @@
-![Banner](https://your-image-url.com/banner.png)
 
 # 👋 Hi, I'm Ishan!
 
